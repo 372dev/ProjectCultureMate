@@ -1,8 +1,8 @@
-# Project_Culture_Mate
-# 컬쳐 메이트 프로젝트
+# Project_Culture_Mate  
+# 컬쳐 메이트 프로젝트  
 
-##👋 Hi, We’re TEAM NO REGRETS
-##👋 안녕하세요, 후회는 없조 입니다
+##👋 Hi, We’re TEAM NO REGRETS  
+##👋 안녕하세요, 후회는 없조 입니다  
 
 ### KH 정보교육원 
 
