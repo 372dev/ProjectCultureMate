@@ -1,15 +1,30 @@
-# Project_Culture_Mate  
+# ProjectCultureMate  
 # 컬쳐 메이트 프로젝트  
 
 ##👋 Hi, We’re TEAM NO REGRETS  
 ##👋 안녕하세요, 후회는 없조 입니다  
 
-### KH 정보교육원 
+### 팀원 소개
+
+#### 황의정
+
+#### 이지연
+
+#### 손진주
+
+#### 박상철
+
+#### 김정은
+
+#### 김민규
+
+### 프로젝트 소개
+
 
 ***
 
 
-**🛠 &nbsp;Tech Stack**
+### 🛠 &nbsp;Tech Stack
 
 - Languages: &nbsp;
   ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
@@ -29,3 +44,6 @@
   ![Eclipse](https://img.shields.io/badge/-Eclipse-333333?style=for-the-badge&logo=eclipse)
   
 ***
+
+### 교육원
+KH 정보교육원 강남지원 디지털 콘텐츠 융합 응용SW 엔지니어 양성과정
