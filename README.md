@@ -1,11 +1,8 @@
-# ProjectCultureMate  
-# 컬쳐 메이트 프로젝트  
+# 컬쳐 메이트 프로젝트 - ProjectCultureMate  
 
-##👋 Hi, We’re TEAM NO REGRETS  
-##👋 안녕하세요, 후회는 없조 입니다  
+##👋 안녕하세요, 후회는 없조 입니다 - Hi, We’re TEAM NO REGRETS  
 
 ### 팀원 소개
-
 #### 황의정
 
 #### 이지연
