@@ -24,23 +24,23 @@
 ### 🛠 &nbsp;Tech Stack
 
 - Languages: &nbsp;
-  ![Java](https://img.shields.io/badge/Java-ebebeb?style=for-the-badge&logo=java&logoColor=f29111)
-  ![HTML](https://img.shields.io/badge/HTML-ebebeb?style=for-the-badge&logo=html5&logoColor=0170ba)
-  ![CSS](https://img.shields.io/badge/CSS-ebebeb?&style=for-the-badge&logo=css3&logoColor=e44d26)
-  ![JavaScript](https://img.shields.io/badge/JavaScript-ebebeb?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
+  ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
+  ![HTML](https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white)
+  ![CSS](https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white)
+  ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+  ![jQuery](https://img.shields.io/badge/jQuery-111111?style=for-the-badge&logo=jquery&logoColor=blue)
 
-- Frameworks / Libraries: &nbsp;
-  ![Spring](https://img.shields.io/badge/Spring-ebebeb?style=for-the-badge&logo=spring&logoColor=6DB33F)
-  ![Bootstrap](https://img.shields.io/badge/Bootstrap-ebebeb?style=for-the-badge&logo=bootstrap&logoColor=563D7C)
-  ![jQuery](https://img.shields.io/badge/jQuery-ebebeb?style=for-the-badge&logo=jquery&logoColor=blue)
-  
+- Frameworks: &nbsp;
+  ![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
+  ![Spring](https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
+
 - Databases:  &nbsp;
-  ![OracleDB](https://img.shields.io/badge/Oracle%20DB-ebebeb?&style=for-the-badge&logo=oracle&logoColor=F00000)
+  ![Oracle](https://img.shields.io/badge/oracle%20-%23F00000.svg?&style=for-the-badge&logo=oracle&logoColor=white)
 
 - IDEs: &nbsp;
-  ![Eclipse](https://img.shields.io/badge/Eclipse-ebebeb?style=for-the-badge&logo=eclipse&logoColor=4F0599)
+  ![Eclipse](https://img.shields.io/badge/-Eclipse-333333?style=for-the-badge&logo=eclipse)
   
 ***
 
-### 교육과정
-KH 정보교육원 강남지원 디지털 콘텐츠 융합 응용SW 엔지니어 양성과정 - 강사 문인수
+### 교육원
+KH 정보교육원 강남지원 디지털 콘텐츠 융합 응용SW 엔지니어 양성과정
