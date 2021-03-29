@@ -12,5 +12,6 @@
 <P>  The time on the server is ${serverTime}. </P>
 
 <h1> kmg test</h1>
+<h1></h1>
 </body>
 </html>
